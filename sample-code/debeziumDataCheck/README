@@ -1,0 +1,18 @@
+# code structure
+
+DataInsertMultiTables: insert into mysql
+DataInsertMultiTablesConcurrency: insert into mysql concurrency
+DataCheck： check topic data order
+
+
+# if build DataCheck to jar
+
+you can use bash in bash-tool directory to run many DataCheck process to check many topics
+and stats the result
+
+
+
+
+
+
+
